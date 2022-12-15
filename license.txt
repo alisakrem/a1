@@ -1,0 +1,11 @@
+Model Information:
+* title:	шлем1
+* source:	https://sketchfab.com/3d-models/1-78f6145a82de40cab755d8be6aeb1469
+* author:	alisakrem (https://sketchfab.com/alisakrem)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "шлем1" (https://sketchfab.com/3d-models/1-78f6145a82de40cab755d8be6aeb1469) by alisakrem (https://sketchfab.com/alisakrem) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
